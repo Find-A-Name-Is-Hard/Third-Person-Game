@@ -57,6 +57,3 @@ The prototype utilizes a standard FPS control scheme to ensure immediate player 
   - Camera-relative movement direction with smooth acceleration and deceleration
   - Jump system with per-frame gravity simulation and sphere-cast ground detection
   - Character rotates toward movement direction (or camera direction when aiming) with angular speed limiting for smooth turning
-## Course Link
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/rG8h_yxL)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=22562785&assignment_repo_type=AssignmentRepo)
